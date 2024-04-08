@@ -32,5 +32,6 @@ For the module practice with GitHub we have the following folders:
 - Mapping_GeoJSON_Points
 - Mapping_GeoJSON_Linestrings
 - Earthquakes_past7days
+  
 
  
